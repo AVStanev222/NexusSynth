@@ -1,0 +1,8 @@
+﻿  argumentEditor.cpp
+C:\Users\User\OneDrive\Работен плот\nexusSynth\NexusSynth\argumentEditor.cpp(17,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\OneDrive\Работен плот\nexusSynth\NexusSynth\argumentEditor.cpp(25,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\OneDrive\Работен плот\nexusSynth\NexusSynth\argumentEditor.cpp(29,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\OneDrive\Работен плот\nexusSynth\NexusSynth\argumentEditor.cpp(33,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\OneDrive\Работен плот\nexusSynth\NexusSynth\argumentEditor.cpp(39,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\OneDrive\Работен плот\nexusSynth\NexusSynth\argumentEditor.cpp(43,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  NexusSynth.vcxproj -> C:\Users\User\OneDrive\Работен плот\nexusSynth\NexusSynth\x64\Debug\NexusSynth.exe
